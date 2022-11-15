@@ -1,0 +1,7 @@
+{
+    "ARDUINO_NANO33BLE_SENSE": {
+        "inherits": ["ARDUINO_NANO33BLE"],
+        "OUTPUT_EXT": "bin",
+        "mbed_app_start": "0x10000"
+    }
+}
